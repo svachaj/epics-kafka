@@ -1,0 +1,4039 @@
+
+record(ai, "AI_0") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(ai, "AI_1") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(ai, "AI_2") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(ai, "AI_3") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(ai, "AI_4") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(ai, "AI_5") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(ai, "AI_6") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(ai, "AI_7") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(ai, "AI_8") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(ai, "AI_9") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(ai, "AI_10") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(ai, "AI_11") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(ai, "AI_12") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(ai, "AI_13") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(ai, "AI_14") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(ai, "AI_15") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(ai, "AI_16") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(ai, "AI_17") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(ai, "AI_18") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(ai, "AI_19") {
+    field(SCAN, ".1 second")
+    field(VAL, "0.0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_0") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_1") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_2") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_3") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_4") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_5") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_6") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_7") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_8") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_9") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_10") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_11") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_12") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_13") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_14") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_15") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_16") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_17") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_18") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_19") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_20") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_21") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_22") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_23") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_24") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_25") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_26") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_27") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_28") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_29") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_30") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_31") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_32") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_33") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_34") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_35") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_36") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_37") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_38") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_39") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_40") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_41") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_42") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_43") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_44") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_45") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_46") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_47") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_48") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_49") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_50") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_51") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_52") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_53") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_54") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_55") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_56") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_57") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_58") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_59") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_60") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_61") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_62") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_63") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_64") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_65") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_66") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_67") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_68") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_69") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_70") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_71") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_72") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_73") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_74") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_75") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_76") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_77") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_78") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_79") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_80") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_81") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_82") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_83") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_84") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_85") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_86") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_87") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_88") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_89") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_90") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_91") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_92") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_93") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_94") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_95") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_96") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_97") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_98") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_99") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_100") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_101") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_102") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_103") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_104") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_105") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_106") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_107") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_108") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_109") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_110") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_111") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_112") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_113") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_114") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_115") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_116") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_117") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_118") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_119") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_120") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_121") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_122") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_123") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_124") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_125") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_126") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_127") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_128") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_129") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_130") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_131") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_132") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_133") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_134") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_135") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_136") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_137") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_138") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_139") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_140") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_141") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_142") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_143") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_144") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_145") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_146") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_147") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_148") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_149") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_150") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_151") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_152") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_153") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_154") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_155") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_156") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_157") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_158") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_159") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_160") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_161") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_162") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_163") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_164") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_165") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_166") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_167") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_168") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_169") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_170") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_171") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_172") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_173") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_174") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_175") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_176") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_177") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_178") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_179") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_180") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_181") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_182") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_183") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_184") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_185") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_186") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_187") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_188") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_189") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_190") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_191") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_192") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_193") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_194") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_195") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_196") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_197") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_198") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_199") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_200") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_201") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_202") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_203") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_204") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_205") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_206") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_207") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_208") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_209") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_210") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_211") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_212") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_213") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_214") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_215") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_216") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_217") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_218") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_219") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_220") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_221") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_222") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_223") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_224") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_225") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_226") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_227") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_228") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_229") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_230") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_231") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_232") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_233") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_234") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_235") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_236") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_237") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_238") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_239") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_240") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_241") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_242") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_243") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_244") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_245") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_246") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_247") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_248") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_249") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_250") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_251") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_252") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_253") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_254") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_255") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_256") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_257") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_258") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_259") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_260") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_261") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_262") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_263") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_264") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_265") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_266") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_267") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_268") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_269") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_270") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_271") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_272") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_273") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_274") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_275") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_276") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_277") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_278") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_279") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_280") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_281") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_282") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_283") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_284") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_285") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_286") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_287") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_288") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_289") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_290") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_291") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_292") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_293") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_294") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_295") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_296") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_297") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_298") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_299") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_300") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_301") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_302") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_303") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_304") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_305") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_306") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_307") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_308") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_309") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_310") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_311") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_312") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_313") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_314") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_315") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_316") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_317") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_318") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_319") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_320") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_321") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_322") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_323") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_324") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_325") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_326") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_327") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_328") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_329") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_330") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_331") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_332") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_333") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_334") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_335") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_336") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_337") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_338") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_339") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_340") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_341") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_342") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_343") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_344") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_345") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_346") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_347") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_348") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_349") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_350") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_351") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_352") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_353") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_354") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_355") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_356") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_357") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_358") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_359") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_360") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_361") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_362") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_363") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_364") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_365") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_366") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_367") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_368") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_369") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_370") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_371") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_372") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_373") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_374") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_375") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_376") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_377") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_378") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_379") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_380") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_381") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_382") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_383") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_384") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_385") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_386") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_387") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_388") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_389") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_390") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_391") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_392") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_393") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_394") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_395") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_396") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_397") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_398") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_399") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_400") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_401") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_402") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_403") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_404") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_405") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_406") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_407") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_408") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_409") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_410") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_411") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_412") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_413") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_414") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_415") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_416") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_417") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_418") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_419") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_420") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_421") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_422") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_423") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_424") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_425") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_426") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_427") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_428") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_429") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_430") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_431") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_432") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_433") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_434") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_435") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_436") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_437") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_438") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_439") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_440") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_441") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_442") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_443") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_444") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_445") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_446") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_447") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_448") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_449") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_450") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_451") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_452") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_453") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_454") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_455") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_456") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_457") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_458") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_459") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_460") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_461") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_462") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_463") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_464") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_465") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_466") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_467") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_468") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_469") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_470") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_471") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_472") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_473") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_474") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_475") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_476") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_477") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_478") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_479") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_480") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_481") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_482") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_483") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_484") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_485") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_486") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_487") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_488") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_489") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_490") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_491") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_492") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_493") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_494") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_495") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_496") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_497") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_498") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(bi, "BI_499") {
+    field(SCAN, "1 second")
+    field(VAL, "0")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_0") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_1") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_2") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_3") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_4") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_5") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_6") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_7") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_8") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_9") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_10") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_11") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_12") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_13") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_14") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_15") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_16") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_17") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_18") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_19") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_20") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_21") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_22") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_23") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_24") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_25") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_26") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_27") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_28") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_29") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_30") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_31") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_32") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_33") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_34") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_35") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_36") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_37") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_38") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_39") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_40") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_41") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_42") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_43") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_44") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_45") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_46") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_47") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_48") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
+
+
+record(waveform, "WF_49") {
+    field(SCAN, ".1 second")
+    field(NELM, "1000")
+    field(FTVL, "DOUBLE")
+    field(DTYP, "Soft Channel")
+}
