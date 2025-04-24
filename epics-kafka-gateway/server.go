@@ -24,11 +24,13 @@ type Subscribe struct {
 
 // PVMessage is the schema broadcast back to WebSocket clients.
 type PVMessage struct {
-	Type     string      `json:"type"` // always "pv"
-	Name     string      `json:"name"`
-	Value    interface{} `json:"value"`
-	Severity int         `json:"severity"`
-	OK       bool        `json:"ok"`
+	Type      string      `json:"type"` // always "pv"
+	Name      string      `json:"name"`
+	Value     interface{} `json:"value"`
+	Severity  int         `json:"severity"`
+	OK        bool        `json:"ok"`
+	Timestamp float64     `json:"timestamp"`
+	Units     string      `json:"units"`
 }
 
 var (
@@ -38,7 +40,7 @@ var (
 	kafkaBrokers = func() []string {
 		bootstrap := os.Getenv("KAFKA_BOOTSTRAP_SERVERS")
 		if bootstrap == "" {
-			bootstrap = "kafka:9092"
+			bootstrap = "localhost:9092"
 		}
 		return strings.Split(bootstrap, ",")
 	}()
@@ -57,6 +59,19 @@ func wsHandler(c echo.Context) error {
 
 	// Track all running reader goroutines per connection.
 	var wg sync.WaitGroup
+
+	// Channel for serializing WebSocket writes
+	writeChan := make(chan []byte)
+	wg.Add(1)
+	go func() {
+		defer wg.Done()
+		for msg := range writeChan {
+			if err := conn.WriteMessage(websocket.TextMessage, msg); err != nil {
+				log.Println("WebSocket write error:", err)
+				return
+			}
+		}
+	}()
 
 	for {
 		// Await a subscribe message from the client.
@@ -100,16 +115,20 @@ func wsHandler(c echo.Context) error {
 					}
 
 					out := PVMessage{
-						Type:     "pv",
-						Name:     topic,
-						Value:    src["value"],
-						Severity: int(coerceFloat(src["severity"])),
-						OK:       coerceBool(src["ok"]),
+						Type:      "pv",
+						Name:      topic,
+						Value:     src["value"],
+						Severity:  int(coerceFloat(src["severity"])),
+						OK:        coerceBool(src["ok"]),
+						Timestamp: coerceFloat(src["timestamp"]),
+						Units:     coerceString(src["units"]),
 					}
 					b, _ := json.Marshal(out)
-					// Ignore broken pipe errors on write; exit goroutine
-					if err := conn.WriteMessage(websocket.TextMessage, b); err != nil {
-						log.Println("WebSocket write error:", err)
+
+					// Send the message to the writer goroutine
+					select {
+					case writeChan <- b:
+					case <-ctx.Done():
 						return
 					}
 				}
@@ -117,8 +136,9 @@ func wsHandler(c echo.Context) error {
 		}
 	}
 
-	// socket closed: stop all readers
+	// socket closed: stop all readers and writer
 	cancel()
+	close(writeChan)
 	wg.Wait()
 	return nil
 }
@@ -146,9 +166,24 @@ func coerceBool(v interface{}) bool {
 	}
 }
 
+// coerceString returns a string or empty if nil.
+func coerceString(v interface{}) string {
+	switch t := v.(type) {
+	case string:
+		return t
+	case nil:
+		return ""
+	default:
+		return ""
+	}
+}
+
 func main() {
+	// log brokers
+	log.Println("Kafka brokers:", kafkaBrokers)
 	e := echo.New()
 	e.Use(middleware.Logger())
+	e.Use(middleware.Recover())
 	e.GET("/ws/pvs", wsHandler)
 	addr := ":8080"
 	log.Println("Gateway listening on", addr)

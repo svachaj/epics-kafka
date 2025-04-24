@@ -1,5 +1,5 @@
 # Base image setup remains the same
-FROM harbor.eli-beams.eu/dockerhub/rockylinux:9
+FROM rockylinux:9
 
 # COPY set_local_mirror.sh .
 # RUN chmod u+x set_local_mirror.sh; \
