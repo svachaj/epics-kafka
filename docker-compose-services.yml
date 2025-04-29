@@ -7,8 +7,6 @@ services:
   epics-simulator:
     build: ./epics-simulator # adjust folder name if different
     container_name: epics-simulator
-    depends_on:
-      - kafka
     environment:
       KAFKA_BOOTSTRAP_SERVERS: kafka:9092
 
@@ -16,7 +14,6 @@ services:
     build: ./epics-kafka-bridge
     container_name: epics-kafka-bridge
     depends_on:
-      - kafka
       - epics-simulator
     environment:
       KAFKA_BOOTSTRAP_SERVERS: kafka:9092
@@ -27,7 +24,6 @@ services:
     ports:
       - "8080:8080" # REST + WebSocket gateway
     depends_on:
-      - kafka
       - epics-kafka-bridge
     environment:
       KAFKA_BOOTSTRAP_SERVERS: kafka:9092

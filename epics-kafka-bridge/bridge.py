@@ -17,8 +17,8 @@ PVMessage struct:
   "value": 30.38,
   "severity": 0,
   "ok": true,
-    "timestamp": 1697055600,
-    "units": "mA"
+  "timestamp": 1697055600,
+  "units": "mA"
 }
 """
 
